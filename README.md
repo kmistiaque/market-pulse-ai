@@ -13,13 +13,13 @@ Market Pulse AI is an advanced sentiment analysis tool that helps investors and 
 ## Screenshots
 
 ![Market Pulse AI Dashboard](images/im1.png)
-*Main dashboard showing sentiment analysis and recommendations*
+
 
 ![Article Analysis](images/im2.png)
-*Detailed article analysis with sentiment scores*
+
 
 ![Interactive Charts](images/im3.png)
-*Interactive visualizations of market sentiment*
+
 
 ## Setup
 
